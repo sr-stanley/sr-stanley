@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sr-stanley/osticket-post-install-congif.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sr-stanley/osticket-lifecycle-examples.git)
 - <b>Active Directory Domain Services</b>
-  - [Creating and configuring a Domain Controller VM and Client VM within Azure VMs](https://github.com/sr-stanley/adds-vm-creation))
+  - [Creating and configuring a Domain Controller VM and Client VM within Azure VMs](https://github.com/sr-stanley/adds-vm-creation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sr-stanley/adds-configure)
   - [Creating Users and Practicing Workflows Inside AD DS within Azure VMs](https://github.com/sr-stanley/adds-users-and-workflow)
 - <b>Microsoft Azure</b>
