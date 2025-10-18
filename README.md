@@ -10,7 +10,6 @@
   - [Creating and configuring a Domain Controller VM and Client VM within Azure VMs]
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Creating Users and Practicing Workflows Inside AD DS within Azure VMs]
-
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
