@@ -6,13 +6,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/sr-stanley/osticket-prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/sr-stanley/osticket-post-install-congif.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sr-stanley/osticket-lifecycle-examples.git)
-- <b>Active Directory Domain Services</b>
+- <b>Active Directory Domain Services (AD DS)</b>
   - [Creating and Configuring a Domain Controller VM and Client VM within Azure VMs](https://github.com/sr-stanley/adds-vm-creation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sr-stanley/adds-configure)
   - [Configuring Group Policy and Practicing Workflows Inside AD DS within Azure VMs](https://github.com/sr-stanley/adds-users-and-workflow)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+---
 
 <h2>🤳Connect with me:</h2>
 
